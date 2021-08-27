@@ -5,7 +5,8 @@
 
 No. | Project        | GitHub Repo            | Demo
 --|-----------|------------------------|---
-01| Codepen Clone | [GitHub Repo](https://github.com/rash-123/codepen-clone) | [Codepen Clone](https://rash-123.github.io/codepen-clone/) ✅
+01| Movie App | [GitHub Repo](https://github.com/rash-123/react-movie-app) | [Movie App](https://rash-123-react-movie-app.netlify.app) ✅
+02| Codepen Clone | [GitHub Repo](https://github.com/rash-123/codepen-clone) | [Codepen Clone](https://rash-123.github.io/codepen-clone/) ✅
 # INTERMEDIATE
 
 No. | Project        | GitHub Repo            | Demo
