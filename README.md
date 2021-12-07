@@ -7,6 +7,7 @@ No. | Project        | GitHub Repo            | Demo
 --|-----------|------------------------|---
 01| Movie App | [GitHub Repo](https://github.com/rash-123/react-movie-app) | [Movie App](https://rash-123-react-movie-app.netlify.app) ✅
 02| Codepen Clone | [GitHub Repo](https://github.com/rash-123/codepen-clone) | [Codepen Clone](https://rash-123.github.io/codepen-clone/) ✅
+03| Firebase Authentication | [GitHub Repo](https://github.com/rash-123/Authentication) | [Firebase Authentication]() ✅
 # INTERMEDIATE
 
 No. | Project        | GitHub Repo            | Demo
